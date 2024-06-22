@@ -124,3 +124,33 @@ img{
     text-align:center;
     box-shadow: 2px 2px 3px #999;  
 }
+
+ .card-1 {
+            width: 80%;
+            margin: 5% auto;
+        }
+        .banner {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .split-card {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-top: 20px;
+            text-align: center;
+        }
+        .contact_icon img {
+            max-width: 100%;
+            height: auto;
+        }
+        .contact_info {
+            padding-left: 20px;
+        }
+        .contact_info ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        .contact_info li {
+            margin-bottom: 15px;
+        }
